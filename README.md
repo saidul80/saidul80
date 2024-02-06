@@ -7,7 +7,7 @@ struct Developer {
   let age = 24
   let role = "iOS & Flutter Developer"
   let location = "Dhaka, Bangladesh 🇧🇩"
-  let languages = ["Bengali (Bangladesh)", "English (United States)"]
+  let languages = ["bn-BD", "en_US"]
   let skills = ["Swift", "Dart", "JavaScript"]
   
   func sayHi() {

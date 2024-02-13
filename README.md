@@ -17,6 +17,3 @@ struct Developer {
 
 let me = Developer()
 me.sayHi()
-
-## Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/saidul80/count.svg" alt ="Loading">
